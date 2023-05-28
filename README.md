@@ -46,3 +46,8 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 This project is licensed under the MIT License.
 
 Feel free to customize the sections, add more details specific to your project, and include relevant screenshots to provide a visual representation of your Expense Tracker React application.
+
+## Deployment
+
+- The app is deployed using Netlify.
+- You can access the live version of the app [here](expense-tracker-app-react2.netlify.app)
