@@ -50,4 +50,5 @@ Feel free to customize the sections, add more details specific to your project, 
 ## Deployment
 
 - The app is deployed using Netlify.
-- You can access the live version of the app [here](expense-tracker-app-react2.netlify.app)
+- You can access the live version of the app [here]
+  (https://expense-tracker-app-react2.netlify.app/)
